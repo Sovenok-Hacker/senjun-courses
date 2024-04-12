@@ -4,8 +4,8 @@
     "chapters": "30 глав", 
     "projects": [
         {
-            "name": "Discord — мессенджер", 
-            "url": "https://discord.com/"
+            "name": "SurrealDB — современная база данных",
+            "url": "https://surrealdb.com/"
         },
         {
             "name": "Servo — браузерный движок", 
@@ -13,7 +13,15 @@
         },
         {
             "name": "Redox — операционная система",
-            "url": "https://www.redox-os.org/"
+            "url": "https://redox-os.org/"
+        },
+        {
+            "name": "Ruffle — эмулятор Adobe Flash, работающий в браузере на технологии WebAssembly",
+            "url": "https://ruffle.rs/"
+        },
+        {
+            "name": "Zed — современный редактор кода с ИИ",
+            "url": "https://zed.dev/"
         }
     ],
     "in_development": true
